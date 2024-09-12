@@ -42,7 +42,7 @@
 - **프론트엔드**: Thymeleaf, Bootstrap
 
 🔹 **바로 가기**
-- [상세 설명](https://github.com/hyunhod/board) 
+- [상세 설명](https://github.com/hyunhod/CoffeeShop) 
 
 <br>
 <br>

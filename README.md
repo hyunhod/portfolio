@@ -22,8 +22,9 @@
 - **데이터베이스**: Oracle
 - **프론트엔드**: Thymeleaf, Bootstrap
 
-🔹 **바로 가기**
-- [상세 설명](https://github.com/hyunhod/board) 
+🔹 **상세 내용**
+- [**바로가기**](https://github.com/hyunhod/board)
+  <br> </br>
 
 ## 2. 온라인 상점 (CoffeeShop)
 
@@ -42,8 +43,8 @@
 - **데이터베이스**: Oracle
 - **프론트엔드**: Thymeleaf, Bootstrap
 
-🔹 **바로 가기**
-- [상세 설명](https://github.com/hyunhod/CoffeeShop) 
+🔹 **상세 내용**
+- [**바로가기**](https://github.com/hyunhod/CoffeeShop) 
 
 <br>
 <br>

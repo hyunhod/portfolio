@@ -26,29 +26,7 @@
 - [**바로가기**](https://github.com/hyunhod/board)
   <br> </br>
 
-## 2. 온라인 상점 (CoffeeShop)
 
-🔹 **프로젝트 설명**
-- 이 프로젝트는 강력한 게시판 시스템을 제공하며, 사용자 인증, 게시글 작성 및 관리, 댓글 및 대댓글 기능을 포함합니다.
-
-🔹 **주요 기능**
-- **회원 가입 및 관리**: 사용자는 회원가입 후 로그인하여 자신의 정보를 관리할 수 있습니다.
-- **상품 등록 및 목록 조회**: 관리자는 새로운 상품을 등록하고, 전체 상품 목록을 확인할 수 있습니다.
-- **주문 및 주문 상태 조회**: 사용자는 상품을 주문할 수 있으며, 주문 내역과 상태를 실시간으로 확인할 수 있습니다.
-- **주문 취소**: 주문 취소 기능을 통해 잘못된 주문을 취소할 수 있습니다.
-
-
-🔹 **기술 스택**
-- **백엔드**: Java, Spring Boot, JPA
-- **데이터베이스**: Oracle
-- **프론트엔드**: Thymeleaf, Bootstrap
-
-🔹 **상세 내용**
-- [**바로가기**](https://github.com/hyunhod/CoffeeShop) 
-
-<br>
-<br>
-<p><b> Skills </b></p>
   
 **Back-End**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)

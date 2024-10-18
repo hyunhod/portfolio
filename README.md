@@ -22,7 +22,7 @@
 - **프론트엔드**: Thymeleaf, Bootstrap
 
 🔹 **상세 내용**
-- [**바로가기**](https://github.com/hyunhod/board)
+- [**바로가기**](https://github.com/hyunhod/map)
   <br> </br>
 
 
